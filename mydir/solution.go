@@ -1,4 +1,4 @@
-package square
+package mydir
 
 import (
 	"fmt"
